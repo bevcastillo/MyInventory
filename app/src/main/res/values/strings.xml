@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyInventory</string>
+
+<!--    custom string arrays-->
+    <string-array name="item_category">
+        <item>Dry Goods</item>
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Candies</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
